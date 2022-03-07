@@ -46,7 +46,9 @@
 <img width="601" alt="Screen Shot 2022-03-04 at 11 34 56 PM" src="https://user-images.githubusercontent.com/69704963/156958779-3786b71d-e37a-4c4b-9566-4f35cc7002e8.png">
 
 
+## Summary
 
+After testing different classifiers we were able to see that EasyEnsembleClassifier had the highest f1 (.16) score for detecting actual high risk credit card scores. 
 
 
 
