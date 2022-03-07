@@ -48,7 +48,7 @@
 
 ## Summary
 
-After testing different classifiers we were able to see that EasyEnsembleClassifier had the highest f1 (.16) score for detecting actual high risk credit card scores. 
+After testing different classifiers we were able to see that EasyEnsembleClassifier had the highest f1 (.16) score for detecting actual high risk credit card cases. 
 
 
 
